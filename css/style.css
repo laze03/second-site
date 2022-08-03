@@ -1,0 +1,120 @@
+.top {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  margin: 0;
+  position: relative;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: grey;
+  width: 5%;
+}
+h1 {
+  margin: 0 auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color :  #66BFBF;
+  line-height: 2;
+}
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+body {
+margin: 0;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+}
+.rad{
+  margin: 2.5% 0;
+  border-radius: 100%;
+  width: 12%;
+}
+.mid {
+  padding-bottom: 5%
+}
+.bot {
+  margin: 0;
+  padding-bottom: 3%;
+  padding-top: 5%;
+  background-color: #66BFBF;
+  text-align: center;
+}
+.c {
+  position: absolute;
+}
+.topc {
+  top: 50px;
+  right:20%;
+}
+.botc {
+  left: 20%;
+}
+.wd {
+  font-family: 'Source Code Pro', monospace;
+}
+.skill-row {
+  width: 50%;
+  margin: 5% auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.skill-img1 {
+  width: 25%;
+  float: left;
+  margin-right: 10%;
+}
+.skill-img2 {
+  width: 25%;
+  float: right;
+  margin-left: 10% ;
+}
+.beat {
+  font-weight: bold;
+  font-family: 'Ubuntu';
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 1%;
+  padding-right: 1%;
+}

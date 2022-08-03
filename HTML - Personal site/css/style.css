@@ -1,0 +1,54 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: grey;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: Calibri;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: Calibri;
+}
+
+p {
+  font-family: Arial;
+}
+
+table {
+  font-family: Arial;
+}
+
+ul {
+  font-family: Arial;
+}
+
+ol {
+  font-family: Arial;
+}
+
+a {
+  color: #FF0063;
+}
+a:hover {
+  color: white;
+}
+form {
+  font-family: Arial;
+
+}
+.name {
+  font-family:Rockwell;
+}
+.myImg {
+  border-radius: 100%;
+}
